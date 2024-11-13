@@ -1,4 +1,4 @@
-![Header Image](https://aocattleya.github.io/NightSky-Background/)
+![Header Image](https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif)
 
 # Aloha, I'm Yatharth Thapa! 👋
 ### An aspiring developer from India 
