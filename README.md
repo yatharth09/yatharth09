@@ -1,4 +1,7 @@
+![Header Image](https://aocattleya.github.io/NightSky-Background/)
+
 # Aloha, I'm Yatharth Thapa! 👋
+### An aspiring developer from India 
 
 ## 🔥 About Me :
 -🎓 Completed my Master's in Computer Science.
