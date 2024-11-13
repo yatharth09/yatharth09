@@ -12,7 +12,7 @@
 - 💬 Ask me about **React**, **Node.js**, **C++**, **Python**, **Machine Learning**, **Deep Learning**
 - 📫 How to reach me: [yatharththapa258@gmail.com](mailto:yatharththapa258@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat) 
+![Profile views](https://komarev.com/ghpvc/?username=yatharth09&label=Profile%20views&color=0e75b6&style=flat) 
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourusername) 
