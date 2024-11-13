@@ -4,7 +4,7 @@
 ### An aspiring developer from India 
 
 ## 🔥 About Me :
--🎓 Completed my Master's in Computer Science.
+- 🎓 Completed my Master's in Computer Science.
 - 👩‍💻 My programming journey began with **C** and **C++**. Then, I delved into **machine learning** throughout my Bachelor's studies—had the opportunity to hone my **Python**.
 - 🌱 Taking the plunge back into development, I'm actively learning and practicing my full-stack web development skills.
 - 🎨 Besides programming, I love to **create 3D animations** or **play video games**.
