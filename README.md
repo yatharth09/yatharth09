@@ -63,17 +63,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
-## 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatharth09&show_icons=true&theme=dark)
 
-- **Total Stars Earned:** 13
-- **Total Commits:** 2k
-- **Total PRs:** 11
-- **Total Issues:** 27
-- **Contributions (last year):** 0
-- **Total Contributions:** 2,240
-- **Longest Streak:** 51 days
-- **Current Streak:** 0 days (as of Nov 13)
 
 ## 🔥 Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth09&layout=compact&theme=dark)
