@@ -5,11 +5,14 @@
 
 ## 🔥 About Me :
 - 🎓 Completed my Master's in Computer Science.
-- 👩‍💻 My programming journey began with **C** and **C++**. Then, I delved into **machine learning** throughout my Bachelor's studies—had the opportunity to hone my **Python**.
-- 🌱 Taking the plunge back into development, I'm actively learning and practicing my full-stack web development skills.
-- 🎨 Besides programming, I love to **create 3D animations** or **play video games**.
+- 👩‍💻 Full-stack engineer with strong experience in React, Next.js, Node.js, NestJS, PostgreSQL, and TypeScript.
+- 🌱 Improved system performance across multiple products — including 60% faster DICOM retrieval, 35% backend efficiency gains, and 40% faster page loads.
+- 🎨 Strong problem solver with 750+ DSA questions solved across LeetCode, CodeChef (5★), and Codeforces.
 - 🌱 I’m currently learning **Generative AI**
-- 💬 Ask me about **React**, **Node.js**, **C++**, **Python**, **Machine Learning**, **Deep Learning**
+- 💬 Experienced in database design, schema migrations, SQL/NoSQL optimization, and event-driven architecture.
+- 👩‍💻 Built real-world projects involving Kafka, Git internals, payment gateways, pipelines, chat systems, and algorithm visualization tools.
+- 🌱 Comfortable working across the full stack, bridging frontend–backend workflows, and speeding up development cycles.
+- 🎨 Quick learner with a track record of automating workflows, increasing uptime, and building production-ready features end to end.
 - 📫 How to reach me: [yatharththapa258@gmail.com](mailto:yatharththapa258@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yatharth09&label=Profile%20views&color=0e75b6&style=flat) 
