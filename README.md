@@ -17,9 +17,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yatharth09&label=Profile%20views&color=0e75b6&style=flat) 
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourusername) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatharththapa) 
+
 
 ## 🔧 Skills and Interests
 
